@@ -1,0 +1,174 @@
+body {
+  background-color: brown;
+}
+h3 {
+  color: rgb(9, 0, 0);
+}
+legend {
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 0px 20px;
+  background-color: white;
+}
+legend:hover{
+  background-color: skyblue;
+}
+
+fieldset {
+  width: 60%;
+  margin: auto;
+  border-radius: 20px;
+  color: white;
+  background-color: black;
+}
+.firstpera {
+  margin: auto;
+  width: 14%;
+  border: 2px solid white;
+  padding: 5px 10px;
+  border-radius: 8px;
+  text-align: center;
+  background-color: orange;
+}
+.firstpera:hover {
+  border-color: red;
+}
+
+.secpera {
+  margin: auto;
+  width: 90%;
+  text-align: justify;
+  text-indent: 0%;
+}
+.photofirst {
+  width: 243px;
+  height: auto;
+  float:left;
+  padding: 0px 10px;
+}
+.thrdpera {
+  margin: auto;
+  width: 14%;
+  border: 2px solid white;
+  padding: 5px 10px;
+  border-radius: 8px;
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+.thrdpera:hover {
+  border-color: blue;
+}
+
+
+.forthpera {
+  margin: auto;
+  width: 90%;
+  text-align: justify;
+  text-indent: 0%;
+}
+.letestaero {
+  width: 258px;
+  height: auto;
+  float:right;
+  padding: 0px 10px;
+}
+.wcimg {
+  width: 50px;
+  height: auto;
+}
+.link {
+  float: right;
+  padding: 0px 40px;
+}
+
+.gmimg {
+  padding: 0px 10px;
+  width: 50px;
+  height: auto;
+}
+.inimg {
+  
+  width: 50px;
+  height: auto;
+}
+h4 {
+    margin: auto;
+    width: 14%;
+    border: 2px solid white;
+    padding: 5px 10px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: green;
+}
+h4:hover{
+  border-color: brown;
+}
+.indflg {
+  margin: auto;
+  width: 90%;
+  text-align: justify;
+  text-indent: 0%;
+}
+.indianflg {
+  width: 258px;
+  height: auto;
+  float:left;
+  padding: 0px 10px;
+}
+.searchbar {
+  
+}
+.select {
+  outline: none;
+}
+.search {
+  outline: none;
+}
+
+
+select {
+  outline: none;
+  margin: -5px;
+  border: none;
+  padding: 9.6px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  background-color: orange;
+  text-align: center;
+}
+
+button {
+  margin: -5px;
+  border: none;
+  padding: 10.08px;
+  background-color: green;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.bar {
+  outline: none;
+  border: none;
+  padding: 10.08px;
+}
+
+.ten {
+  margin-left: 30px;
+  padding-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.ilove {
+  height: 200px;
+}
+.ashokckr {
+  height: 115px;
+  margin-bottom: 45px;
+}
+.main {
+   height: 200px;
+   width: 500px;
+   margin-left: 880px;
+}
